@@ -15,6 +15,7 @@ My **first portfolio website** showcasing my journey from first-year student →
 ## 📱 Live Demo
 🔗 **Coming soon** (Netlify deploy Week 4)
 
+
 ## 📚 What I'm Learning                                                                                   Follow my weekly progress on LinkedIn and this repo!
 
 Month 1: HTML/CSS/JS → Portfolio live
